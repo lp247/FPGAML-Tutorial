@@ -1,6 +1,0 @@
-Red Dwarf   0
-Brown Dwarf 1
-White Dwarf 2
-Main Sequence   3
-SuperGiants 4
-HyperGiants 5
